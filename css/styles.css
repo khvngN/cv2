@@ -1,0 +1,42 @@
+#top-container {
+  padding: 100px;
+  width: 90%;
+  text-align: center;
+}
+
+#second-page {
+  padding: 100px;
+  text-align: center;
+}
+.title-image {
+  width: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f6f6f6;
+}
+p {
+  margin-top: 10%;
+}
+
+.commission-drawing {
+  width: 80%;
+}
+
+h1 {
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1rem;
+
+}
+
+.poem-header {
+  text-decoration: underline;
+}
+
+.btn {
+  padding: 2% 3%;
+  margin: 5% 3%;
+}
